@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import * as data from '../../data/bieskes.json';
 
 @Component({
   selector: 'page-bieske-overview',
@@ -7,4 +8,7 @@ import { Component } from '@angular/core';
 })
 export class BieskeOverviewComponent {
 
+  constructor() {
+    console.log(data);
+  }
 }

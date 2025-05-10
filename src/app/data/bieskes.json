@@ -1,0 +1,19 @@
+{
+    "bieskes": [
+        {
+            "id": 0,
+            "name": "Leopheart",
+            "image": "/images/leophart_default.png"
+        },
+        {
+            "id": 1,
+            "name": "Bugcat",
+            "image": "/images/bugcat_default.png"
+        },
+        {
+            "id": 2,
+            "name": "Skyfox",
+            "image": "/images/skyfox_default.png"
+        }
+    ]
+}
